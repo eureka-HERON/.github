@@ -1,1 +1,3 @@
-# .github
+# HERON Project
+
+Eureka - Eurostars
